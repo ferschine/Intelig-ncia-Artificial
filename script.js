@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Prata",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                afirmacao: "Você é uma pessoa que se sente bem vestindo a paleta de cores fria, pendendo mais a usar roupas menos saturadas e/ou de tons azulados e prateados, como se o inverno fizesse parte do seu guarda-roupa."
             },
             {
                 texto:  "Dourado",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                afirmacao: "Você é uma pessoa que se sente bem vestindo a paleta de cores quente, que opta por tons chamativos e saturados, tendo seu guarda-roupa caloroso como o verão."
             }    
            
         ]
