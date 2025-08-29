@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A",
+        enunciado: "Quais cores você costuma usar em suas joias?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
+                texto: "Prata",
                 afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
+                texto:  "Dourado",
                 afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
             }    
            
